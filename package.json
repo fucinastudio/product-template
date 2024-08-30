@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "version": "0.1.0",
+  "name": "@fucina/product-template",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fucina/tailwind": "^0.0.5",
+    "@fucina/ui": "^0.0.10",
+    "@fucina/utils": "^0.0.5",
+    "@fucina/visualizations": "^0.0.2",
+    "next": "14.2.7",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.7"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
