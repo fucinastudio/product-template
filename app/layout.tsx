@@ -10,8 +10,8 @@ import '@/styles/globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Fucina template',
-  description: 'Open source product foundry',
+  title: 'Fucina - Product Template',
+  description: 'Open source product template',
 };
 
 export default function RootLayout({
