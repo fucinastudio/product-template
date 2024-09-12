@@ -1,6 +1,7 @@
 {
-  "name": "@fucina/product-template",
+  "name": "fucina-product-template",
   "version": "0.0.1",
+  "description": "Open source product template",
   "private": true,
   "scripts": {
     "dev": "next dev",

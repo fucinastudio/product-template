@@ -1,13 +1,10 @@
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
 
 import { ToastProvider } from '@fucina/ui';
 import { ThemeProvider } from '@/components/theme-provider';
 
 import { sans, brand, logo } from '@/styles/fonts/font';
 import '@/styles/globals.css';
-
-const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Fucina - Product Template',
