@@ -10,11 +10,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@fucina/tailwind": "^0.0.5",
-    "@fucina/ui": "^0.0.10",
+    "@fucina/tailwind": "0.0.7",
+    "@fucina/ui": "0.0.16",
     "@fucina/utils": "^0.0.5",
     "@fucina/visualizations": "^0.0.2",
     "next": "14.2.7",
+    "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18"
   },

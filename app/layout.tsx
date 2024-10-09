@@ -1,15 +1,11 @@
-import type { Metadata } from 'next';
-
+import { metadata } from '@/lib/metadata';
 import { ToastProvider } from '@fucina/ui';
 import { ThemeProvider } from '@/components/theme-provider';
 
 import { sans, brand, logo } from '@/styles/fonts/font';
 import '@/styles/globals.css';
 
-export const metadata: Metadata = {
-  title: 'Fucina - Product Template',
-  description: 'Open source product template',
-};
+export { metadata };
 
 export default function RootLayout({
   children,
