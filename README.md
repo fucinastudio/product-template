@@ -33,4 +33,4 @@
 
 ## License
 
-Inspired by [Plausible](https://plausible.io/), Feely is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/fucinastudio/product-template/blob/main/LICENSE.md).
+Inspired by [Plausible](https://plausible.io/), Feely is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/fucinastudio/product-template/blob/main/LICENCE.md).
